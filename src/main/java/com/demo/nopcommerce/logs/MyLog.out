@@ -1,0 +1,10 @@
+2020-04-22 16:04:695 INFO       Homepage :35 - Clicking on register link[[ChromeDriver: chrome on WINDOWS (c3b7da12cce9497eeb1ba30a291a3e71)] -> xpath: //a[@class='ico-register']]
+2020-04-22 16:04:955 INFO       Homepage :57 - Clicking on radio button[[ChromeDriver: chrome on WINDOWS (c3b7da12cce9497eeb1ba30a291a3e71)] -> id: gender-female]
+2020-04-22 16:04:231 INFO       Homepage :63 - Entering first namePratikshain first name field[[ChromeDriver: chrome on WINDOWS (c3b7da12cce9497eeb1ba30a291a3e71)] -> id: FirstName]
+2020-04-22 16:04:417 INFO       Homepage :69 - Entering last namePatelin last name field[[ChromeDriver: chrome on WINDOWS (c3b7da12cce9497eeb1ba30a291a3e71)] -> id: LastName]
+2020-04-22 16:04:730 INFO       Homepage :75 - Entering emailabc123@gmail.comin email field[[ChromeDriver: chrome on WINDOWS (c3b7da12cce9497eeb1ba30a291a3e71)] -> id: Email]
+2020-04-22 16:04:968 INFO       Homepage :81 - Entering company namePBS Limitedin company name field[[ChromeDriver: chrome on WINDOWS (c3b7da12cce9497eeb1ba30a291a3e71)] -> id: Company]
+2020-04-22 16:04:154 INFO       Homepage :87 - Entering password 2810omin password field[[ChromeDriver: chrome on WINDOWS (c3b7da12cce9497eeb1ba30a291a3e71)] -> id: Password]
+2020-04-22 16:04:326 INFO       Homepage :93 - Entering confirm password2810om in confirm password field[[ChromeDriver: chrome on WINDOWS (c3b7da12cce9497eeb1ba30a291a3e71)] -> id: ConfirmPassword]
+2020-04-22 16:04:889 INFO       Homepage :99 - Clicking on register button[[ChromeDriver: chrome on WINDOWS (c3b7da12cce9497eeb1ba30a291a3e71)] -> id: register-button]
+2020-04-22 16:04:487 INFO       Homepage :104 - Getting registration complition confirmationProxy element for: DefaultElementLocator 'By.xpath: //div[@class='result']'
